@@ -1,0 +1,27 @@
+>=media-sound/pulsemixer-1.5.1 ~amd64
+>=net-im/discord-bin-0.0.10 ~amd64
+
+# Unmasks needed by qutebrowser
+>=www-client/qutebrowser-1.12.0 ~amd64
+>=dev-python/jinja-2.11.2 ~amd64
+>=dev-python/pypeg2-2.15.2-r1 ~amd64
+
+# Unmasks needed for Steam launcher and meta
+>=games-util/steam-launcher-1.0.0.64 ~amd64
+>=games-util/steam-meta-0-r20160817 ~amd64
+>=games-util/steam-client-meta-0-r20200328 ~amd64
+>=games-util/steam-games-meta-0-r20191109 ~amd64
+
+# Unmasks needed by dev-java/icedtea
+>=dev-java/icedtea-3.16.0 ~amd64
+
+# Unmasks needed by dev-util/ccls
+>=dev-util/ccls-0.20190823.5 ~amd64
+
+>=media-gfx/flameshot-0.6.0 ~amd64
+>=games-util/lutris-0.5.4-r1 ~amd64
+>=dev-python/python-evdev-1.3.0 ~amd64
+>=media-video/obs-studio-25.0.8-r1 ~amd64
+>=x11-misc/yabar-0.4.0_p20190316-r1 ~amd64
+>=dev-scheme/termite-0.15-r1 ~amd64
+>=x11-wm/qtile-0.14.2-r1 ~amd64
